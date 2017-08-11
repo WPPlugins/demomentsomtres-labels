@@ -1,0 +1,247 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DeMomentSomTres Labels\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jun 17 2015 16:53:24 GMT+0200 (CEST)\n"
+"POT-Revision-Date: Wed Jun 17 2015 17:08:47 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: dms3 <dms3@demomentsomtres.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../demomentsomtres-labels.php:42
+msgid "DeMomentSomTres Labels plugin requires the free DeMomentSomTres Tools plugin."
+msgstr ""
+
+#: ../demomentsomtres-labels.php:42
+msgid "Download it here"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:102 ../demomentsomtres-labels.php:111
+msgctxt "DeMomentSomTres Labels"
+msgid "DeMomentSomTres Etiquetes"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:102
+msgctxt "Labels"
+msgid "Etiquetes"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:103
+msgctxt "DeMomentSomTres Labels - Files"
+msgid "DeMomentSomTres Etiquetes - Fitxers"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:103 ../demomentsomtres-labels.php:176
+msgctxt "Files"
+msgid "Fitxers"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:104
+msgctxt "DeMomentSomTres Labels - Configuration"
+msgid "DeMomentSomTres Etiquetes - Configuració"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:104
+msgctxt "Configuration"
+msgid "Configuració"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:114
+msgctxt "Save"
+msgid "Desar"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:125
+msgctxt "DeMomentSomTres Labels - File Upload"
+msgid "DeMomentSomTres Etiquetes - Càrrega de fitxers"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:128
+msgctxt "Save changes"
+msgid "Desa els canvis"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:140
+msgctxt "DeMomentSomTres Labels - Printing"
+msgid "DeMomentSomTres Etiquetes - Impressió"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:146
+#, php-format
+msgctxt "Print %s Labels"
+msgid "Imprimeix etiquetes %s"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:163
+msgctxt "General"
+msgid "General"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:164
+msgctxt "Number of label formats"
+msgid "Nombre de configuracions i fitxers"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:165
+msgctxt "Common CSS styles"
+msgid "Estils CSS comuns"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:168
+#, php-format
+msgctxt "%s Format"
+msgid "Format %s"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:169
+msgctxt "Format Name"
+msgid "Nom del format"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:170
+msgctxt "Identification Column Number"
+msgid "Columna d'identificador"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:171
+msgctxt "Labels per row"
+msgid "Columnes d&apos;etiquetes per fila"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:172
+msgctxt "Rows per page"
+msgid "Files d&apos;etiquetes per pàgina"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:173
+msgctxt "Label HTML format specification"
+msgid "Especificació del format d'etiqueta"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:178
+#, php-format
+msgctxt "File %s"
+msgid "Fitxer %s"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:182
+#, php-format
+msgctxt "Labels %s"
+msgid "Etiquetes %s"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:183
+msgctxt "Elements"
+msgid "Elements"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:183
+msgctxt "All"
+msgid "Tots"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:183
+msgctxt "None"
+msgid "Cap"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:238
+msgctxt "General Application Settings"
+msgid "Configuració dels paràmetres generals de l&apos;aplicació"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:239
+msgctxt "Changes on this sections will be reflected on next sections after save"
+msgid ""
+"Canvis en aquesta secció tenen conseqüència sobre la secció següent tan bon "
+"punt es desa"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:246
+msgctxt "This format specific settings"
+msgid "Paràmetres d&apos;aquesta visualització"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:253
+msgctxt "Upload files"
+msgid "Carrega els fitxers de preus."
+msgstr ""
+
+#: ../demomentsomtres-labels.php:254
+msgctxt "WARNING: files should use ISO-8859-1 format (Windows default one, :-$)."
+msgid ""
+"ATENCIÓ: els fitxers han d&apos;estar en format de caràcter ISO-8859-1 que "
+"és l&apos;estàndard de Windows."
+msgstr ""
+
+#: ../demomentsomtres-labels.php:255
+msgctxt "You can use &lt;br/&gt; in file contents to show line breaks"
+msgid ""
+"Recorda que pots inserir el contingut &lt;br/&gt; per forçar un canvi de "
+"línia en un camp"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:262
+msgctxt "Choose which labels to print"
+msgid "Escolliu els elements per generar les etiquetes"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:303
+msgctxt "Which column contains product identification?"
+msgid "Número de la columna que conté el camp que identifica el producte"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:315
+msgctxt "Columns in echa rows of labels when printing"
+msgid "Nombre de columnes a cada fila d'etiquetes"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:327
+msgctxt "Rows in every page of labels"
+msgid "Nombre de files a cada pàgina d'etiquetes"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:339
+msgctxt ""
+"Full HTML for a label in this format. You can insert field 3 by using "
+"shortcode [dms3L id=3]"
+msgid ""
+"Estructura completa d'una de les etiquetes d'aquest format. Per indicar el "
+"camp 3 del fitxer cal usar el shortcode [dms3L id=3]"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:340
+msgctxt ""
+"[dms3L] Shortcode admits iconclass parameter to return a &lt;span "
+"class='icon <em>iconclass</em>'&gt;&lt;span&gt; when the field is not empty."
+msgid ""
+"El shortcode [dms3L] admet el paràmetre iconclass per retornar &lt;span "
+"class='icon <em>iconclass</em>'&gt;&lt;/span&gt; quan el camp contingui "
+"dades."
+msgstr ""
+
+#: ../demomentsomtres-labels.php:352
+msgctxt "Replace file by"
+msgid "Substituir el fitxer per"
+msgstr ""
+
+#: ../demomentsomtres-labels.php:514
+msgid "impressi&oacute; d'etiquetes"
+msgstr ""

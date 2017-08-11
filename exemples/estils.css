@@ -1,0 +1,58 @@
+.formatge .xerigots, .vi .xerigots, .sec .xerigots {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/logo-xerigots-cap.png);
+	background-position: left center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.formatge .faldo, .vi .faldo, .sec .faldo {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/faldo.png);
+	background-position: top center;
+	background-size: 25% auto;
+	background-repeat: repeat-x;
+}
+.formatge .icon, .vi .icon {
+	display: inline-block;
+	width: 0.5cm;
+	height: 0.5cm;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-right: 0.1cm;
+}
+.sec .icon {
+	display: inline-block;
+	width: 0.35cm;
+	height: 0.35cm;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-right: 0.1cm;
+}
+.formatge .vaca {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/cow12.png);
+}
+.formatge .cabra {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/capricorn2.png);
+}
+.formatge .ovella {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/lamb1-e1434098907511.png);
+}
+.formatge .bufala {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/buffalo1.png);
+}
+.formatge .eco, .vi .eco {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/Eco.png);
+}
+.formatge .lactosa, .sec .lactosa {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/sense-lactosa.png);
+}
+.formatge .gluten, .sec .gluten {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/sense-gluten.png);
+}
+.vi .sulfits {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/sense-sulfits.png);
+}
+.vi .bio {
+	background-image: url(http://www.xerigots.cat/wp-content/uploads/2015/06/bio.png);
+}
+.noclub {
+  display: none;
+}
